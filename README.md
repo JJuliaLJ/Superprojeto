@@ -22,7 +22,7 @@ O sistema integra uma análise exploratória visual (via Power BI) com um motor 
 ## 💻 Como rodar localmente
 
 1. Clone o repositório:
-git clone https://github.com/juliaism/Superprojeto.git
+git clone <url_do_projeto><br>
 cd Superprojeto
 
 2. Instale as dependências:
